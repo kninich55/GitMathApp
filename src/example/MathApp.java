@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class MathApp {
 	
 	/*
-	 *  Release Version 1 contains:
+	 *  Release Version 2 contains:
 	 *  Addition operation
+	 *  Multiplication operation
 	 */
 
 	public static void main(String[] args) {
