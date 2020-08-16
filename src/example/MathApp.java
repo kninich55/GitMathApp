@@ -3,6 +3,11 @@ package example;
 import java.util.Scanner;
 
 public class MathApp {
+	
+	/*
+	 *  Release Version 1 contains:
+	 *  Addition operation
+	 */
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
